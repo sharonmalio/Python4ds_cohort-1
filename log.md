@@ -1,13 +1,12 @@
 # Master Python for Data Science Handbook - Log
 
 ## Week 1: Introduction: IPython: Beyond Normal Python
-**(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: Finished going through the first chapter of the (https://jakevdp.github.io/PythonDataScienceHandbook/) book.
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: The chapter was easy to follow through I can just hope for more and more learning. Looking forward to week2
 
-**Link to work**: [introduction(Ipython)](www.example.com)
+**Link to work**: There is no specific link to my work as much included configuring the environment and installation of the necessary tools
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
