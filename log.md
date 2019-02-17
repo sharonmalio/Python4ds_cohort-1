@@ -10,27 +10,27 @@
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
-**This week's Progress**:
+**This week's Progress**: worked through chapter2 it was amazing. I completed the chapter successfully
 
-**Thoughts**:
+**Thoughts**:I would like to do this more
 
-**Link to work**:
+**Link to work**: I had not discovered jupyter notes sharing and so I did not have any links to the work. Its locally stored
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
-**This week's Progress**:
+**This week's Progress**: Still in the process of doing this
 
-**Thoughts**:
+**Thoughts**: The chapter is long and it quite needed more time than I expected. Still in progress
 
-**Link to work**:
+**Link to work**:http://localhost:8888/notebooks/data-science-for-good-kiva-crowdfunding/Chapter3.ipynb
 
 ## Week 4: Practice(Challenge 1)
 
-**This week's Progress**:
+**This week's Progress**: Workin on the challenge. I have been able to visualize the regions that had more loans
 
-**Thoughts**:
+**Thoughts**: Its quite exciting and I hope to be done soonest there is
 
-**Link to work**:
+**Link to work**: http://localhost:8888/notebooks/Challenge.ipynb
 
 ## Week 5: Chapter 4: Data Visualization
 
