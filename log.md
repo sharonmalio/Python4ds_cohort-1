@@ -22,7 +22,7 @@
 
 **Thoughts**: The chapter is long and it quite needed more time than I expected. Still in progress
 
-**Link to work**:http://localhost:8888/notebooks/data-science-for-good-kiva-crowdfunding/Chapter3.ipynb
+**Link to work**:https://github.com/sharonmalio/python4datascience/blob/smalio/Chapter3.ipynb
 
 ## Week 4: Practice(Challenge 1)
 
@@ -30,7 +30,7 @@
 
 **Thoughts**: Its quite exciting and I hope to be done soonest there is
 
-**Link to work**: http://localhost:8888/notebooks/Challenge.ipynb
+**Link to work**: https://github.com/sharonmalio/python4datascience/blob/smalio/Challenge.ipynb
 
 ## Week 5: Chapter 4: Data Visualization
 
