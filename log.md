@@ -43,7 +43,7 @@
 
 **This week's Progress**:  Completed Chapter 3
 
-**Thoughts**: Challenging but I triumped and learning alot in the process
+**Thoughts**: Challenging but I triumphed and learning a lot in the process
 
 **Link to work**:
 
@@ -56,19 +56,20 @@
 **Link to work**:
 
 ## Week 8: Chapter 4
+**This week's Progress**: Done working on chapter 4 even though I have issues with my conda as I am not able in install the base map
+
+**Thoughts**: Great experience. Going forward to work on the week 8 challenge now.
+
+**Link to work**:https://github.com/sharonmalio/python4datascience/blob/smalio/Chapter4.ipynb
+
+## Week 9: Chapter 5:Challenge
+
 **This week's Progress**:
 
 **Thoughts**:
 
 **Link to work**:
 
-## Week 9: Chapter 5: Machine Learning
-
-**This week's Progress**:
-
-**Thoughts**:
-
-**Link to work**:
 
 ## Week 10&11: Practice(Challenge 3&4)
 
