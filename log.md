@@ -64,20 +64,20 @@
 
 ## Week 9: Chapter 5:Challenge
 
-**This week's Progress**:
+**This week's Progress**: Read on machine learning and worked on the challenge on predicting on whether a loanee is likely to pay their loan on time. I am still doing the visualizations then deep to the algorithms.
 
-**Thoughts**:
+**Thoughts**: Machine learning part is tough, understanding the algorithms is even tougher, but we are getting there
 
-**Link to work**:
+**Link to work**: https://github.com/sharonmalio/python4datascience/blob/smalio/project.ipynb 
 
 
 ## Week 10&11: Practice(Challenge 3&4)
 
-**This week's Progress**:
+**This week's Progress**: Doing the final project. Yet to choose the topic to work on. 
 
-**Thoughts**:
+**Thoughts**: Still stuck on what chalenge to tackle.
 
-**Link to work**:
+**Link to work**: Coming soon.
 ## Capstone project
 
 
